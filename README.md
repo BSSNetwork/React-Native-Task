@@ -1,7 +1,7 @@
-#Objective:
+Objective:
 Create a basic React Native application that displays a list of items (e.g., a list of movies, books, or products) fetched from an API. This task will help assess your knowledge of React Native, API handling, navigation, state management, and UI design.
 
-##Task Requirements
+Task Requirements
 Basic UI & Component Design:
 
 Create a main screen with a list of items fetched from an external API.
@@ -45,7 +45,7 @@ Navigation:
 
 Understanding of navigation principles in mobile apps and implementing smooth transitions.
 
-##UI and Styling Skills:
+UI and Styling Skills:
 
 Capability to build a visually appealing, responsive, and intuitive UI.
 API Integration and Error Handling:
