@@ -54,7 +54,9 @@ Handling data fetching, loading states, and error handling.
 Code Quality and Documentation:
 
 Readability, organization, and clarity in the code, as well as the quality of documentation provided.
+
 Optional Bonus (Advanced) Tasks:
+
 Offline Support:
 
 Implement basic offline support (e.g., caching the API response for offline use).
